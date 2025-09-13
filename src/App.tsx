@@ -9,7 +9,7 @@ function App() {
         <div className="nav-container">
           <div className="logo-container">
             <div className="logo-img"></div>
-            <a href="#" className="logo-text">DekaMusic - ловит даже в горах!</a>
+            <a href="#" className="logo-text">WavedotMusic - ловит даже в горах!</a>
           </div>
           <div className="nav-links">
             <a href="#">Телеграмм</a>
@@ -38,7 +38,7 @@ function App() {
 
       <section className="features">
         <div className="container">
-          <h2>Почему DekaMusic?</h2>
+          <h2>Почему WavedotMusic?</h2>
           <div className="feature-grid">
             <div className="feature-card">
               <h3>Высокое качество</h3>
